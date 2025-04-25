@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+Mohamed+Ramadan;Fullstack+Web+Developer;I+build+cool+digital+products!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</p>
 
 
 
