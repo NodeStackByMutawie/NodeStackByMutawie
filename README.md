@@ -1,38 +1,34 @@
-👋 Hi, I'm Mohamed Ramadan (@NodeStackByMutawie)
+# 👋 Hi, I'm Mohamed Ramadan Mutawie
 
-💻 About Me
+🎯 I'm a passionate Web Developer focused on building digital products, templates, and tools.
 
-I'm a passionate self-taught developer from Egypt 🇪🇬Currently in my 3rd year at Advanced Academy, CairoI specialize in building modern web apps using JavaScript, TypeScript, Angular, and Node.js.
+---
 
-🌱 I’m currently learning:
-Backend development with Express & MongoDB
+## 🛠️ Tech Stack
+- 💻 Languages: **JavaScript**, **TypeScript**, **HTML**, **CSS**
+- 🚀 Frameworks: **Angular**, **Express.js**
+- 🎨 Styling:  **Bootstrap**
+- 🗃️ Database: **MongoDB**
+- 🧠 Currently Learning: **Advanced OOP in JavaScript**, **Fullstack Projects**
 
-Building and selling digital products like HTML/CSS templates and web tools
+---
 
-👀 I’m interested in:
+## 📈 GitHub Stats
 
-Full-Stack Web Development
+![Mutawie GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodestackbymutawie&show_icons=true&theme=tokyonight)
 
-Open Source Contribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodestackbymutawie&layout=compact&theme=tokyonight)
 
-UI/UX design and frontend performance optimization
+---
 
-💬 Let’s collaborate on:
+## 🌐 Contact Me
 
-Web App Projects (Angular/Node.js stack)
+- 🌍 Portfolio: [mutawie.dev](https://mutawie.dev) <!-- لو لسه معندكش موقع، قوللي أحذف السطر -->
+- 💼 LinkedIn: [linkedin.com/in/nodestackbymutawie](https://linkedin.com/in/nodestackbymutawie)
+- 🐦 Twitter: [@nodestackbymutawie](https://twitter.com/nodestackbymutawie)
 
-Digital Product ideas
+---
 
-GitHub Repositories and Open Source
+> 🧠 “Code, Create, Repeat.”
 
-📫 How to reach me:
 
-Email: [mohammed0114153.com]
-
-LinkedIn: [mohammed-ramadan-mutawie-dev]
-
-GitHub: [github.com/NodeStackByMutawie]
-
-⚡ Fun Fact:
-
-I love mixing code with creativity—my goal is to turn cool ideas into powerful, real-world apps.
