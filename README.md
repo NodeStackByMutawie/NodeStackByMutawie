@@ -45,7 +45,8 @@
 ## 🌐 Contact Me
 
 - 🌍 Portfolio: [mutawie.dev](https://mutawie.dev)
-- 💼 LinkedIn: [linkedin.com/in/nodestackbymutawie](https://linkedin.com/in/nodestackbymutawie)
+- 💼 LinkedIn: www.linkedin.com/in/mohammed-mutawie-dev
+
 - 🐦 Twitter: [@nodestackbymutawie](https://twitter.com/nodestackbymutawie)
 
 ---
