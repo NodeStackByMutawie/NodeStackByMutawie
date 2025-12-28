@@ -25,7 +25,7 @@
 ### 🌿 [Garden Company (الريف الأخضر)](https://nodestackbymutawie.github.io/garden-company/)
 > A modern landing page for landscaping services with full RTL support and responsive design.
 
-### 🛒 [Product Management System](https://github.com/NodeStackByMutawie/product-management-system)
+### 🛒 [Product Management System](https://nodestackbymutawie.github.io/product-management-system/)
 > CRUD system for products with LocalStorage persistence and clean UI.
 
 ### 🚗 [AutoRent Platform](https://github.com/NodeStackByMutawie/AutoRental)
